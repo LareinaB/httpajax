@@ -1,0 +1,22 @@
+[
+  {
+    "name": "sansa",
+    "age": 25,
+    "scores":
+    {
+      "math": 95,
+      "english": 94,
+      "chinese": 89
+    }
+  },
+  {
+    "name": "arya",
+    "age": 22,
+    "scores":
+    {
+      "math": 91,
+      "english": 90,
+      "chinese": 88
+    }
+  }
+]

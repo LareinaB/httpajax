@@ -61,6 +61,7 @@
     }
     // => 接收参数初始化 init parameters
     window.ajax = function ({
+        // init parameters
         url = null,
         method = 'GET',
         type = null,
@@ -69,17 +70,22 @@
         cache = true,
         async = true,
         success = null} = {}) {
-        let example =  new AjaxClass();
-        example.url = url;
-        example.method = type === null ? method : type;
-        example.data = data;
-        example.dataType = dataType;
-        example.cache = cache;
-        example.async = async;
-        example.success = typeof success === 'function' ? success : new Function();
-        example.isGET = /^(GET|DELETE|HEAD)$/i.test(example.method);
-        example.init();
-        return example;
+        let _this =  new AjaxClass();
+        // 批量处理的方式
+        ['url', 'method', 'data', 'dataType', 'cache', 'async', 'success'].forEach((item) => {
+            if(item === 'method'){
+                _this.method = type === null ? method : type;
+                return;
+            }
+            if(item === 'success'){
+                _this.success = typeof success === 'function' ? success : new Function();
+                return;
+            }
+            _this[item] = eval(item);
+        });
+        _this.isGET = /^(GET|DELETE|HEAD)$/i.test(_this.method);
+        _this.init();
+        return _this;
     };
 } ();
 

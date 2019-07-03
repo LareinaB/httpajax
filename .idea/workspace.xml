@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ad906ad-1c49-40ed-90bc-a513b6e83c15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AJAX/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJAX/ajax2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJAX/testAjax.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AJAX/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/AJAX/ajax.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,22 +19,33 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJAX/倒计时抢购.html">
+        <entry file="file://$PROJECT_DIR$/AJAX/ajax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="176">
+              <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+              <folding>
+                <element signature="e#197#853#0" />
+                <element signature="e#2526#2558#0" />
+                <element signature="e#2638#2670#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AJAX/ajax2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AJAX/ajax.js">
+        <entry file="file://$PROJECT_DIR$/AJAX/testAjax.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
-              <folding>
-                <element signature="e#197#853#0" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -61,6 +74,8 @@
         <option value="$PROJECT_DIR$/AJAX/倒计时抢购.html" />
         <option value="$PROJECT_DIR$/AJAX/qianggou.js" />
         <option value="$PROJECT_DIR$/AJAX/ajax.js" />
+        <option value="$PROJECT_DIR$/AJAX/ajax2.html" />
+        <option value="$PROJECT_DIR$/AJAX/testAjax.js" />
       </list>
     </option>
   </component>
@@ -141,12 +156,12 @@
       <updated>1559559233235</updated>
       <workItem from="1559559238046" duration="597000" />
       <workItem from="1559699392155" duration="1796000" />
-      <workItem from="1562036015720" duration="22661000" />
+      <workItem from="1562036015720" duration="23954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25054000" />
+    <option name="totallyTimeSpent" value="26347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1439" y="6" width="1456" height="916" extended-state="0" />
@@ -226,11 +241,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AJAX/ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="82" column="6" selection-start-line="82" selection-start-column="6" selection-end-line="82" selection-end-column="6" />
+        <state relative-caret-position="176">
+          <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
           <folding>
             <element signature="e#197#853#0" />
+            <element signature="e#2526#2558#0" />
+            <element signature="e#2638#2670#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/ajax2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AJAX/testAjax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>

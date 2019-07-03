@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ad906ad-1c49-40ed-90bc-a513b6e83c15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/AJAX/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/AJAX/ajax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AJAX/testAjax.js" beforeDir="false" afterPath="$PROJECT_DIR$/AJAX/testAjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ajax分页应用/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ajax分页应用/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ajax分页应用/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ajax分页应用/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ajax分页应用/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ajax分页应用/js/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ajax分页应用/扩展.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,34 +22,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AJAX/ajax.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ajax分页应用/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+            <state relative-caret-position="414">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ajax分页应用/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ajax分页应用/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="102" column="79" selection-start-line="102" selection-start-column="79" selection-end-line="102" selection-end-column="79" />
               <folding>
-                <element signature="e#421#845#0" />
-                <element signature="e#2526#2558#0" />
-                <element signature="e#2638#2670#0" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#!!block;n#f#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJAX/ajax2.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ajax分页应用/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="354">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AJAX/testAjax.js">
+        <entry file="file://$PROJECT_DIR$/Ajax分页应用/扩展.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="300">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ajax分页应用/js/utils.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <state relative-caret-position="278">
+              <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -53,8 +88,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,6 +109,15 @@
         <option value="$PROJECT_DIR$/AJAX/ajax2.html" />
         <option value="$PROJECT_DIR$/AJAX/testAjax.js" />
         <option value="$PROJECT_DIR$/AJAX/ajax.js" />
+        <option value="$PROJECT_DIR$/Ajax应用/index.html" />
+        <option value="$PROJECT_DIR$/Ajax应用/css/index.css" />
+        <option value="$PROJECT_DIR$/Ajax分页应用/data.txt" />
+        <option value="$PROJECT_DIR$/Ajax分页应用/js/utils.js" />
+        <option value="$PROJECT_DIR$/Ajax分页应用/index.html" />
+        <option value="$PROJECT_DIR$/Ajax分页应用/扩展.md" />
+        <option value="$PROJECT_DIR$/Ajax分页应用/css/index.css" />
+        <option value="$PROJECT_DIR$/Ajax分页应用/js/index.js" />
+        <option value="$PROJECT_DIR$/Ajax分页应用/detail.html" />
       </list>
     </option>
   </component>
@@ -100,7 +144,7 @@
             <path>
               <item name="http&amp;ajax" type="b2602c69:ProjectViewProjectNode" />
               <item name="http&amp;ajax" type="462c0819:PsiDirectoryNode" />
-              <item name="AJAX" type="462c0819:PsiDirectoryNode" />
+              <item name="Ajax分页应用" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,10 +155,16 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html5&amp;css3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\WebstormProjects\http&amp;ajax\Ajax分页应用" />
+      <recent name="G:\WebstormProjects\http&amp;ajax\Ajax分页应用\js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,12 +204,12 @@
       <updated>1559559233235</updated>
       <workItem from="1559559238046" duration="597000" />
       <workItem from="1559699392155" duration="1796000" />
-      <workItem from="1562036015720" duration="25004000" />
+      <workItem from="1562036015720" duration="44135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27397000" />
+    <option name="totallyTimeSpent" value="46528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1439" y="6" width="1456" height="916" extended-state="0" />
@@ -253,13 +303,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AJAX/ajax.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        <state relative-caret-position="363">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
           <folding>
             <element signature="e#421#845#0" />
             <element signature="e#2526#2558#0" />
             <element signature="e#2638#2670#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax分页应用/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-642">
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax分页应用/js/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax分页应用/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax分页应用/扩展.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax分页应用/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax分页应用/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="102" column="79" selection-start-line="102" selection-start-column="79" selection-end-line="102" selection-end-column="79" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#f#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax分页应用/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>

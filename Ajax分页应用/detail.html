@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>详情</title>
+</head>
+<body>
+<script src="js/utils.js"></script>
+<script>
+    function queryURLParameter(url) {
+        var obj = {};
+        var reg = /([^?=&]+)=([^?&=]+)/g;
+        url.replace(reg, function () {
+            obj[arguments[1]] = arguments[2];
+        });
+        return obj;
+    }
+    var url = window.location.href;
+    //http://localhost:63342/http&ajax/Ajax%E5%88%86%E9%A1%B5%E5%BA%94%E7%94%A8/detail.html?num=001
+    var num = queryURLParameter(url).num;
+
+    utils.ajax("data.txt", function (data) {
+        for (var i = 0; i < data.length; i ++){
+            var cur = data[i];
+            if(cur["num"] === num){
+                document.write("num:"+cur.num + "sex:" + cur.sex + "score:" + cur.score);
+                break;
+            }
+        }
+    })
+</script>
+</body>
+</html>

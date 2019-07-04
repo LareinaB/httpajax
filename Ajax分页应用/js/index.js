@@ -21,7 +21,7 @@ utils.ajax("data.txt", function (data) {
         var tar = e.target || e.srcElement;
         if(tar.tagName.toLowerCase() === "li"){
             // 点击分页页码
-            var page = Number(tar.innerHTML);
+            page = Number(tar.innerHTML);
             curPage = page;
         }else if(tar.id === "first"){
             curPage = 1;

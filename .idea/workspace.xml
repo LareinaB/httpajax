@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ad906ad-1c49-40ed-90bc-a513b6e83c15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ajax分页应用/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ajax分页应用/js/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="5ad906ad-1c49-40ed-90bc-a513b6e83c15" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,11 +130,12 @@
       <workItem from="1559699392155" duration="1796000" />
       <workItem from="1562036015720" duration="44548000" />
       <workItem from="1562156591650" duration="718000" />
+      <workItem from="1562245503898" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47659000" />
+    <option name="totallyTimeSpent" value="47669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1496" y="7" width="1275" height="913" extended-state="0" />
